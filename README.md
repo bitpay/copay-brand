@@ -7,21 +7,30 @@ When friends or company executives join a Copay wallet, more than one person mus
 
 ##Logo
 ###Primary logo
-This is the best logo for all applications. It is the [white logo](bitpay-logo-primary.png) on the BitPay Blue background.
-![BitPay Logo](bitpay-logo-full.png)
-###Logo inverted
-![BitPay Logo Inverse](bitpay-logo-inverse.png)
+[white logo](copay-logo-full.png) on the Copay blue background.
+![BitPay Logo](copay-logo-full.png)
+###Secondary logos
+[white logo] on the Copay green shades background.
+![BitPay Logo](copay-logo-full-sec1.png)
+![BitPay Logo](copay-logo-full-sec2.png)
+###Logo in negative
+![BitPay Logo in negative](copay-logo-full-negative.png)
 
-##BitPay
+##Copay
 
-BitPay is written with the `B` and `P` capitalized to distinguish BitPay (our company) from Bitcoin (the currency). In code, `bitpay` is all lowercase.
+Copay is written with capital `C`. In code, `copay` is all lowercase.
 
-- ✓ **BitPay**
-- ✓ **`bitpay`**
-- × *Bitpay*
-- × *bitPay*
-- × *bit-pay*
-- × *bit pay*
+- ✓ **Copay**
+- ✓ **`copay`**
+- × *CoPay*
+- × *coPay*
+- × *co-pay*
+- × *co pay*
+
+
+##Color Palette
+
+5 colors palette can be found here: http://coolors.co/2c3e50-16a085-1abc9c-f2f5f8-93a9bd
 
 ##BitPay Blue
 
