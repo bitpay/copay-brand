@@ -24,10 +24,6 @@ Copay is written with capital `C`. In code, `copay` is all lowercase.
 - × *co-pay*
 - × *co pay*
 
-##Beta
-
-Copay logo will include the BETA text on top until its 1.0 release.
-
 ##Color Palette
 
 5 colors palette can be found here: http://coolors.co/2c3e50-16a085-1abc9c-f2f5f8-93a9bd
